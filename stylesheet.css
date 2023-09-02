@@ -1,0 +1,76 @@
+.intro, .footer {
+    background-color: #279EFF;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.photo {
+    border-radius: 50%;
+    border: 10px solid black;
+}
+
+.name {
+    font-family: 'IBM Plex Serif', serif;
+    color: #D5FFD0;
+    font-size: 4rem;
+}
+
+.tag {
+    color: black;
+    font-size: 1.5rem;
+}
+
+.header {
+    font-family: 'PT Serif', serif;
+}
+
+.skills {
+    font-family: 'Libre Baskerville', serif;
+    color: antiquewhite;
+}
+
+.skills2 {
+    font-family: 'PT Serif Caption', serif;
+    color: black;
+}
+
+.design {
+    background-color: #D5FFD0;
+    border: 5px solid #0C356A;
+    border-radius: 15px;
+}
+
+.footer-name {
+    padding: 10px;
+    color: white;
+}
+
+.contacts {
+    background-color: #279EFF;
+    list-style: none;
+    font-family: 'PT Serif Caption', serif;
+    font-size: 1.5rem;
+}
+
+.feature-icon {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.laptop {
+    border-radius: 10px;
+}
+
+.projects, .about {
+    background-color: #279EFF;
+    font-family: 'PT Serif', serif;
+}
+
+.phrase {
+    font-family: 'Libre Baskerville', serif;
+}
+.statement {
+    width: 60%;
+    border: 5px solid whitesmoke;
+    border-radius: 15px;
+}
